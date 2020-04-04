@@ -1,0 +1,36 @@
+There are 3 types of design patterns and 23 design patterns
+--------------------------------------------------------------------------------------
+1.Creational
+    deals with object creation and initialization
+        eg- Factory Method
+            Abstract Factory
+            Builder
+            Prototype
+            Singleton
+---------------------------------------------------------------------------------------
+2.Structural
+    deals with class and object composition
+        eg- Adapter
+            Bridge
+            Composite
+            Decorator
+            Façade
+            Flyweight
+            Proxy
+-------------------------------------------------------------------------------------------
+3.Behavioural
+    deals with classes and objects
+        eg- Chain of Responsibility
+            Command
+            Interpreter
+            Iterator
+            Mediator
+            Memento
+            Observer
+            State
+            Strategy
+            Visitor
+            Template Method
+---------------------------------------------------------------------------------------------
+SINGLETON-Creational
+

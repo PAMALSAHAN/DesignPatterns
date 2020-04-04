@@ -1,0 +1,8 @@
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Singleton\bin\Debug\netstandard2.0\Singleton.deps.json
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Singleton\bin\Debug\netstandard2.0\Singleton.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Singleton\bin\Debug\netstandard2.0\Singleton.pdb
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Singleton\obj\Debug\netstandard2.0\Singleton.AssemblyInfoInputs.cache
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Singleton\obj\Debug\netstandard2.0\Singleton.AssemblyInfo.cs
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Singleton\obj\Debug\netstandard2.0\Singleton.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Singleton\obj\Debug\netstandard2.0\Singleton.pdb
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Singleton\obj\Debug\netstandard2.0\Singleton.csprojAssemblyReference.cache
