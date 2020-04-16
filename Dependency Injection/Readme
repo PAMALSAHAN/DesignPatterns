@@ -1,0 +1,4 @@
+Tight coupling
+    *it means that two objects are depend on each other
+    *depend on another concrete class
+    

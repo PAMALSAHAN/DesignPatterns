@@ -1,0 +1,6 @@
+meka hariyata DIP eka wage.instances okkoma ctor wala parameters widihata pass karana eka thamai 
+karanne.
+    * palawenic eka meke tightly coupling wela tinne eka hinda losely coupling karanna one.
+        EmpBL ekai EmpDAL ekai thama ehema welatinne.eka hadaganna one.
+    
+    *ctor eken object genna ganna one.
