@@ -1,0 +1,8 @@
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Creational Design Pattern\Singleton\SinglenonLib\obj\Debug\netstandard2.0\SinglenonLib.csprojAssemblyReference.cache
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Creational Design Pattern\Singleton\SinglenonLib\obj\Debug\netstandard2.0\SinglenonLib.AssemblyInfoInputs.cache
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Creational Design Pattern\Singleton\SinglenonLib\obj\Debug\netstandard2.0\SinglenonLib.AssemblyInfo.cs
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Creational Design Pattern\Singleton\SinglenonLib\bin\Debug\netstandard2.0\SinglenonLib.deps.json
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Creational Design Pattern\Singleton\SinglenonLib\bin\Debug\netstandard2.0\SinglenonLib.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Creational Design Pattern\Singleton\SinglenonLib\bin\Debug\netstandard2.0\SinglenonLib.pdb
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Creational Design Pattern\Singleton\SinglenonLib\obj\Debug\netstandard2.0\SinglenonLib.dll
+F:\pamal\pamal\udemy\.netDesignPatterns\work\.net-c-design-patterns\Creational Design Pattern\Singleton\SinglenonLib\obj\Debug\netstandard2.0\SinglenonLib.pdb
