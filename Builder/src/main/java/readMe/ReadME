@@ -1,0 +1,16 @@
+Builder Pattern
+  when coding there have never ending parameters in a constructor.like bellow.so many parameters.some are we dont know
+  either.
+    -------
+    Builder design pattern is object creation sw design pattern use to solve this problem.
+
+    To implement the scenario I have taken below example
+    ----------
+    So,to refactor this according to the builder design pattern I use three classes such as Account,Address,and Name.
+    I will implement Name class as follows.
+    will implement Address as follows.
+        -----------------------------------
+      then I implement Account class as follows.
+        -------------------------------------
+
+       finally we can implement it as follows.
